@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "lon",
+            "request": "launch",
+            "mainClass": "myproject.lon",
+            "projectName": "Banking Management System_e0d4abc8"
+        },
+        {
+            "type": "java",
+            "name": "LoginFormWithIconsAndDB",
+            "request": "launch",
+            "mainClass": "myproject.LoginFormWithIconsAndDB",
+            "projectName": "Banking Management System_e0d4abc8"
+        },
+        {
+            "type": "java",
+            "name": "LoginFormWithIcons",
+            "request": "launch",
+            "mainClass": "myproject.LoginFormWithIcons",
+            "projectName": "Banking Management System_e0d4abc8"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "XYZ",
+            "request": "launch",
+            "mainClass": "XYZ",
+            "projectName": "Banking Management System_e0d4abc8"
+        },
+        {
+            "type": "java",
+            "name": "LoginForm",
+            "request": "launch",
+            "mainClass": "myproject.LoginForm",
+            "projectName": "Banking Management System_e0d4abc8"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "myproject.Main",
+            "projectName": "Banking Management System_e0d4abc8"
+        },
+        {
+            "type": "java",
+            "name": "splash",
+            "request": "launch",
+            "mainClass": "myproject.splash",
+            "projectName": "Banking Management System_e0d4abc8"
+        }
+    ]
+}

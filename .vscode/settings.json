@@ -1,0 +1,24 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\java\\mysql_connect.jar",
+        "c:\\Users\\Uday (Bhanu)\\Downloads\\mysql-connector-j-9.2.0\\mysql-connector-j-9.2.0\\mysql-connector-j-9.2.0.jar"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "MySQL Local",
+            "database": "student",
+            "username": "root",
+            "password": "0708",
+            "connectionTimeout": 30
+        }
+    ]
+}
