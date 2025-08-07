@@ -6,12 +6,19 @@ A Banking Management System desktop application developed in Java, featuring a m
 # Features
 
 -> User Authentication (Login/Register)
+
 -> Create & Manage Accounts
+
 -> Deposit / Withdraw Money
+
 -> Check Account Balance
--> Transaction History (Optional if implemented)
--> Admin Controls (Optional)
+
+-> Transaction History 
+
+-> Admin Controls 
+
 -> UI built with JavaFX and Swing
+
 -> Secure SQL database integration using JDBC
 
 
