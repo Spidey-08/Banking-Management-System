@@ -26,10 +26,15 @@ A Banking Management System desktop application developed in Java, featuring a m
 # Tech Stack
 
 Java 8 
+
 JavaFX for modern UI screens
+
 Java Swing for traditional UI components
-ySQL (Fo database)
+
+SQL (For database)
+
 JDBC for database connectivity
+
 IDE: IntelliJ IDEA / Eclipse
 
 
@@ -53,7 +58,11 @@ banking-management-system/
 # Concepts Used
 
 Java OOP (Classes, Objects, Inheritance)
+
 JavaFX & Swing UI integration
+
 Event handling
+
 SQL & JDBC integration
+
 Data persistence
