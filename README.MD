@@ -25,30 +25,39 @@ A Banking Management System desktop application developed in Java, featuring a m
 
 # Tech Stack
 
-Java 8 
+-> Java 8 
 
-JavaFX for modern UI screens
+-> JavaFX for modern UI screens
 
-Java Swing for traditional UI components
+-> Java Swing for traditional UI components
 
-SQL (For database)
+-> SQL (For database)
 
-JDBC for database connectivity
+-> JDBC for database connectivity
 
-IDE: IntelliJ IDEA / Eclipse
+-> IDE: IntelliJ IDEA / Eclipse
 
 
 # Folder Structure
 
 banking-management-system/
+
 ├── Banking_Proj/
+
 │   ├── src/
+
 │   │   ├── java/
+
 │   │   │   ├── icon/               # Logo icon
+
 │   │   │   ├── ui/                 # Photo and Icnons
+
 │   │   │   ├── myproject/          # Main Logic
+
 │   │   │   |   ├── splash.java     # App entry point    
+
 ├── bankdb.sql                      # SQL schema
+
 └── README.md
 
 
@@ -57,12 +66,12 @@ banking-management-system/
 
 # Concepts Used
 
-Java OOP (Classes, Objects, Inheritance)
+-> Java OOP (Classes, Objects, Inheritance)
 
-JavaFX & Swing UI integration
+-> JavaFX & Swing UI integration
 
-Event handling
+-> Event handling
 
-SQL & JDBC integration
+-> SQL & JDBC integration
 
-Data persistence
+-> Data persistence
